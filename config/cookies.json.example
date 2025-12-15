@@ -1,0 +1,10 @@
+{
+  "source": {
+    "cookie": "MUSIC_U=源账号的MUSIC_U值; __csrf=源账号的__csrf值; JSESSIONID-WYYY=源账号的JSESSIONID值; ...",
+    "account_name": "源账号名称（可选，用于日志显示）"
+  },
+  "target": {
+    "cookie": "MUSIC_U=目标账号的MUSIC_U值; __csrf=目标账号的__csrf值; JSESSIONID-WYYY=目标账号的JSESSIONID值; ...",
+    "account_name": "目标账号名称（可选，用于日志显示）"
+  }
+}
